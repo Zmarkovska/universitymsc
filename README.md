@@ -1,2 +1,2 @@
 # universitymsc
-various data science projects
+various data science projects for uni
